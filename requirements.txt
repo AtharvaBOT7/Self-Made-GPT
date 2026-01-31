@@ -1,2 +1,8 @@
 ipykernel
 dotenv
+torch
+numpy
+matplotlib
+tqdm
+python-dotenv
+tensorboard
